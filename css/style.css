@@ -1,0 +1,81 @@
+.body{
+	background-color: #dfdfdf;
+}
+
+/**/
+.tittle1{
+font-size: 70px;
+color: #6b6b84;
+}
+.tittle2{
+color: #7b7b7b;
+    margin-top: -18px;
+}
+.nav-link{
+	color: #5a3939;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.tab{
+	border-radius: 30px 30px 50px 50px;
+}
+.cont{
+	padding: 10%;
+    background: #eeeeee;
+    border: 2px solid white;
+}
+.name{
+	font-size: 30px;
+}
+.jumbotron{
+	background-color: #73738c;
+	background-image: linear-gradient(#0f0f15,#343449,#83839d);
+	color: white;
+
+}
+.btn-secondary{
+	background-color: #6b4747;
+	color: white;
+border-radius: 30px;
+border:1px solid white;
+}
+.display-4{
+	font-weight: bold;
+	font-size: 200px;
+}
+.navbar-expand-lg{
+	background-color: #eeeeee;
+	color: #8e7474;
+}
+.cont2{
+	padding: 5%;
+    background: #eeeeee;
+    border: 2px solid white;
+}
+.card-body{
+background-color: #eeeeee;
+color: #686767;
+}
+.card{
+	    border: none;
+}
+.card a{
+    text-decoration: underline;
+}
+.card-title{
+	color: black;
+}
+.btn-pg2{
+	background-color: #f6f6f6;
+	color: #a6a6a7;
+	border-radius: 20px;
+	border: 1px solid #b3b3b3;
+	box-shadow: 1px -3px #888888;
+}
+.social{   
+font-size: 20px;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    color: #6b4747;
+    margin-right: 10px;}
